@@ -60,7 +60,7 @@
     "@sanity/icons": "^3.5.6",
     "@sanity/image-url": "1",
     "@sanity/vision": "3",
-    "@sentry/nextjs": "^8.47.0",
+    "@sentry/nextjs": "^9.5.0",
     "@serwist/next": "^9.0.11",
     "@t3-oss/env-nextjs": "^0.11.1",
     "@tailwindcss/forms": "^0.5.9",
@@ -100,7 +100,7 @@
     "linkifyjs": "^4.2.0",
     "lodash": "^4.17.21",
     "lucide-react": "^0.469.0",
-    "next": "14.2.15",
+    "next": "14.2.21",
     "next-auth": "5.0.0-beta.25",
     "next-axiom": "^1.9.1",
     "next-sanity": "9",
@@ -164,7 +164,7 @@
     "tailwindcss": "3.4.17",
     "tsconfig": "workspace:*",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "2.1.8",
+    "vitest": "2.1.9",
     "vitest-mock-extended": "^2.0.2"
   },
   "engines": {
